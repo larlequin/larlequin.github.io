@@ -5,7 +5,7 @@
     <link>https://larlequin.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on Guillaume T. Vallet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     <copyright>&amp;copy; 2017 Guillaume Vallet</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/tags/hugo/" rel="self" type="application/rss+xml" />
@@ -33,7 +33,7 @@
 &lt;li&gt;Easy to customize&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -326,7 +326,7 @@ caption = &amp;quot;Image credit: [**Academic**](https://github.com/gcushen/hugo
 &lt;/div&gt;
 
 
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;

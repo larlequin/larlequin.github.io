@@ -5,7 +5,7 @@
     <link>https://larlequin.github.io/post/</link>
     <description>Recent content in Posts on Guillaume T. Vallet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     <copyright>&amp;copy; 2017 Guillaume Vallet</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
@@ -33,7 +33,7 @@
 &lt;li&gt;Easy to customize&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -326,7 +326,7 @@ caption = &amp;quot;Image credit: [**Academic**](https://github.com/gcushen/hugo
 &lt;/div&gt;
 
 
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -480,7 +480,7 @@ Below is an automatically generated list of all my blog posts!
       <guid>https://larlequin.github.io/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
 
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;

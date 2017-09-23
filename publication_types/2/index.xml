@@ -5,18 +5,191 @@
     <link>https://larlequin.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Guillaume T. Vallet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     <copyright>&amp;copy; 2017 Guillaume Vallet</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 22:34:02 -0500</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://larlequin.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title> Sleep on your memory traces: How sleep effects can be explained by Act-In, a functional memory model</title>
+      <link>https://larlequin.github.io/publication/2017/2017-mazza-somactin/</link>
+      <pubDate>Tue, 12 Sep 2017 22:34:02 -0500</pubDate>
       
-      <guid>https://larlequin.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://larlequin.github.io/publication/2017/2017-mazza-somactin/</guid>
+      <description>&lt;p&gt;Numerous studies have explored the effect of sleep on memory. It is well known that a period
+of sleep, compared to a similar period of wakefulness, protects memories from interference,
+improves performance, and might also reorganize memory traces in a way that encourages
+creativity and rule extraction. It is assumed that these benefits come from the reactivation of
+brain networks, mainly involving the hippocampal structure, as well as from their
+synchronization with neocortical networks during sleep, thereby underpinning
+sleep-dependent memory consolidation and reorganization. However, this memory
+reorganization is difficult to explain within classical memory models. The present paper aims
+to describe whether the influence of sleep on memory could be explained using a multiple
+trace memory model that is consistent with the concept of embodied cognition: the Act-In
+(activation-integration) memory model. We propose an original approach to the results
+observed in sleep research on the basis of two simple mechanisms, namely activation and
+integration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> A SEMantic and EPisodic Memory Test (SEMEP) Developed Within the Embodied Cognition Framework: Application to Normal Aging, Alzheimer’s Disease and Semantic Dementia</title>
+      <link>https://larlequin.github.io/publication/2017/2017-vallet-semep/</link>
+      <pubDate>Mon, 28 Aug 2017 22:34:02 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2017/2017-vallet-semep/</guid>
+      <description>&lt;p&gt;Embodiment has highlighted the importance of sensory-motor components in cognition.
+Perception and memory are thus very tightly bound together, and episodic and semantic
+memories should rely on the same groundedmemory traces. Reduced perception should
+then directly reduce the ability to encode and retrieve an episodic memory, as in normal
+aging. Multimodal integration deficits, as in Alzheimer’s disease, should lead to more
+severe episodic memory impairment. The present study introduces a new memory test
+developed to take into account these assumptions. The SEMEP (SEMantic-Episodic)
+memory test proposes to assess conjointly semantic and episodic knowledge across
+multiple tasks: semantic matching, naming, free recall, and recognition. The performance
+of young adults is compared to healthy elderly adults (HE), patients with Alzheimer’s
+disease (AD), and patients with semantic dementia (SD). The results show specific
+patterns of performance between the groups. HE commit memory errors only for
+presented but not to be remembered items. AD patients present the worst episodic
+memory performance associated with intrusion errors (recall or recognition of items
+never presented). They were the only group to not benefit from a visual isolation
+(addition of a yellow background), a method known to increase the distinctiveness of the
+memory traces. Finally, SD patients suffer from the most severe semantic impairment.
+To conclude, confusion errors are common across all the elderly groups, whereas AD
+was the only group to exhibit regular intrusion errors and SD patients to show severe
+semantic impairment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ageism among psychology students: A comparative analysis between Belgium and Quebec (Canada)</title>
+      <link>https://larlequin.github.io/publication/2017/2017-marquet-agism/</link>
+      <pubDate>Thu, 25 May 2017 22:34:02 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2017/2017-marquet-agism/</guid>
+      <description>&lt;p&gt;The aim of this study was to investigate the comprehension of concrete, abstract and abstract emotional words in semantic variant primary progressive aphasia (svPPA), Alzheimer’s disease (AD), and healthy elderly adults (HE) Three groups of participants (9 svPPA, 12 AD, 11 HE) underwent a general neuropsychological assessment, a similarity judgment task, and structural brain MRI. The three types of words were processed similarly in the group of AD participants. In contrast, patients in the svPPA group were significantly more impaired at processing concrete words than abstract words, while comprehension of abstract emotional words was in between. VBM analyses showed that comprehension of concrete words relative to abstract words was significantly correlated with atrophy in the left anterior temporal lobe. These results support the view that concrete words are disproportionately impaired in svPPA, and that concrete and abstract words may rely upon partly dissociable brain regions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comprehension of concrete and abstract words in semantic variant primary progressive aphasia and Alzheimer’s disease: a behavioral and neuroimaging study</title>
+      <link>https://larlequin.github.io/publication/2017/2017-sven-abscon/</link>
+      <pubDate>Sat, 20 May 2017 22:34:02 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2017/2017-sven-abscon/</guid>
+      <description>&lt;p&gt;The aim of this study was to investigate the comprehension of concrete, abstract and abstract emotional words in semantic variant primary progressive aphasia (svPPA), Alzheimer’s disease (AD), and healthy elderly adults (HE) Three groups of participants (9 svPPA, 12 AD, 11 HE) underwent a general neuropsychological assessment, a similarity judgment task, and structural brain MRI. The three types of words were processed similarly in the group of AD participants. In contrast, patients in the svPPA group were significantly more impaired at processing concrete words than abstract words, while comprehension of abstract emotional words was in between. VBM analyses showed that comprehension of concrete words relative to abstract words was significantly correlated with atrophy in the left anterior temporal lobe. These results support the view that concrete words are disproportionately impaired in svPPA, and that concrete and abstract words may rely upon partly dissociable brain regions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The automatic visual simulation of words: A memory reactivated mask slows down conceptual access</title>
+      <link>https://larlequin.github.io/publication/2017/2017-embodied-words/</link>
+      <pubDate>Mon, 20 Feb 2017 22:34:02 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2017/2017-embodied-words/</guid>
+      <description>&lt;p&gt;How do we represent the meaning of words? The present study assesses whether access to conceptual knowledge requires the reenactment of the sensory components of a concept. The reenactment—that is, simulation—was tested in a word categorisation task using an innovative masking paradigm. We hypothesised that a meaningless reactivated visual mask should interfere with the simulation of the visual dimension of concrete words. This assumption was tested in a paradigm in which participants were not aware of the link between the visual mask and the words to be processed. In the first phase, participants created a tone–visual mask or tone–control stimulus association. In the test phase, they categorised words that were presented with 1 of the tones. Results showed that words were processed more slowly when they were presented with the reactivated mask. This interference effect was only correlated with and explained by the value of the visual perceptual strength of the words (i.e., our experience with the visual dimensions associated with concepts) and not with other characteristics. We interpret these findings in terms of word access, which may involve the simulation of sensory features associated with the concept, even if participants were not explicitly required to access visual properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Editorial: Dynamics of sensorimotor interactions in embodied cognition</title>
+      <link>https://larlequin.github.io/publication/2016/2016-edito_frontiers/</link>
+      <pubDate>Sun, 21 Aug 2016 17:54:08 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2016/2016-edito_frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alzheimer’s disease and memory strength: Gradual decline of memory traces as a function of their strength</title>
+      <link>https://larlequin.github.io/publication/2016/2016-dms48/</link>
+      <pubDate>Mon, 20 Jun 2016 22:34:02 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2016/2016-dms48/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Episodic memory impairment is at the core of amnestic mild cognitive impair- ment (aMCI) and Alzheimer’s disease (AD). The origin of memory deficits may result either from an encoding deficit or from an accelerated decline of the memory trace. The present study explores these two hypotheses.&lt;br /&gt;
+&lt;em&gt;Method:&lt;/em&gt; We used the delayed-matching-to sample 48 items (DMS-48) memory test in a group of controls, aMCI patients, and AD patients (n= 16 in each group). The DMS-48 offers an incidental learning phase followed by three forced-choice recognition tests at three-minute, one-hour, and one-week delays. Moreover, the forced-choice test distinguishes three kinds of couple items: abstract (meaningless), paired (two similar exemplars), and unique (two different objects) items.&lt;br /&gt;
+&lt;em&gt;Results:&lt;/em&gt; As predicted by the accelerated forgetting hypothesis, patients showed a decrease in recognition performance over time. Controls also exhibited a similar decline in performance. As predicted by the encoding deficit hypothesis, abstract items were the most poorly recognized in AD, at both the three-minute and the one-week delays. In AD, recognition of the paired items also dropped after the one-hour delay, followed by unique items after a one-week delay. Patients with aMCI exhibited a performance that was similar to controls, except for abstract items, which dropped at the one-week delay.&lt;br /&gt;
+&lt;em&gt;Conclusions:&lt;/em&gt; These results are discussed in light of a third hypothesis, the memory strength hypothesis, in order to better account for the progressive decline in memory performance as a function of the item type in AD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Qualitative impairment in face perception in Alzheimer’s Disease: Evidence from a reduced face inversion effect</title>
+      <link>https://larlequin.github.io/publication/2016/2016-alz-faces/</link>
+      <pubDate>Sat, 21 May 2016 14:55:29 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2016/2016-alz-faces/</guid>
+      <description>&lt;p&gt;Prevalent face recognition difficulties in Alzheimer’s disease (AD) have typically been attributed to the underlying episodic and semantic memory impairment. The aim of the current study was to determine if AD patients are also impaired at the perceptual level for faces, more specifically at extracting a visual representation of an individual face. To address this question, we investigated the matching of simultaneously presented individual faces and of other nonface familiar shapes (cars), at both upright and inverted orientation, in a group of mild AD patients and in a group of healthy older controls matched for age and education. AD patients showed a reduced inversion effect (i.e., larger performance for upright than inverted stimuli) for faces, but not for cars, both in terms of error rates and response times. While healthy participants showed a much larger decrease in performance for faces than for cars with inversion, the inversion effect did not differ significantly for faces and cars in AD. This abnormal inversion effect for faces was observed in a large subset of individual patients with AD. These results suggest that AD patients have deficits in higher-level visual processes, more specifically at perceiving individual faces, a function that relies on holistic representations specific to upright face stimuli. These deficits, combined with their memory impairment, may contribute to the difficulties in recognizing familiar people that are often reported in patients suffering from the disease and by their caregivers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Normative data for phonemic and semantic verbal fluency test in the adult French–Quebec population and validation study in Alzheimer’s disease and depression</title>
+      <link>https://larlequin.github.io/publication/2016/2016-norm_fluences/</link>
+      <pubDate>Mon, 21 Mar 2016 17:49:02 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2016/2016-norm_fluences/</guid>
+      <description>&lt;p&gt;OBJECTIVE: Verbal fluency tasks are principally used to assess lexical access and have shown usefulness for differential diagnosis. The purpose of Study 1 was to provide normative data in the adult French-Quebec population (Canada) for semantic verbal fluency (animals), for two sets of phonemic verbal fluency (TNP and PFL), and for letter P alone (60 seconds per category/letter). The objectives of Study 2 were to establish the diagnostic and predictive validity of the present tasks and normative data in Alzheimer&amp;rsquo;s disease (AD) and major depressive episode (MDE). METHOD: The normative sample consisted of 932 participants aged 19-91 years. Based on multiple linear regressions, equations to calculate Z-scores were provided. To assess validity, performance of 62 healthy participants was compared to 62 participants with AD and 41 with MDE aged over 50. RESULTS: Age and education, but not gender, predicted performance on each verbal fluency task. Healthy adults aged 50 and younger had a better performance on semantic than phonemic verbal fluency. In comparison to MDE, AD participants had lower performance on animals and TNP, but not on letter P. Ninety percent of people with a Z-score &amp;lt;/= -1.50 on semantic verbal fluency had AD and the global accuracy was 76.6%. Test-retest reliability over one year was high for both animals (r = .711) and TNP (r = .790) in healthy older participants, but dropped for animals in people with AD (r = .493). CONCLUSIONS: These data will strengthen accurate detection of verbal fluency deficits in French-Quebec adults.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Embodied cognition of aging</title>
+      <link>https://larlequin.github.io/publication/2015/2015-embodied_aging/</link>
+      <pubDate>Mon, 21 Dec 2015 17:32:09 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2015/2015-embodied_aging/</guid>
+      <description>&lt;p&gt;Embodiment is revolutionizing the way we consider cognition by incorporating the influence of our body and of the current context within cognitive processing. A growing number of studies which support this view of cognition in young adults stands in stark contrast with the lack of evidence in favor of this view in the field of normal aging and neurocognitive disorders. Nonetheless, the validation of embodiment assumptions on the whole spectrum of cognition is a mandatory step in order for embodied cognition theories to become theories of human cognition. More pragmatically, aging populations represent a perfect target to test embodied cognition theories due to concomitant changes in sensory, motor and cognitive functioning that occur in aging, since these theories predict direct interactions between them. Finally, the new perspectives on cognition provided by these theories might also open new research avenues and new clinical applications in the field of aging. The present article aims at showing the value and interest to explore embodiment in normal and abnormal aging as well as introducing some potential theoretical and clinical applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memory plays tricks on me: Perceptual bias induced by memory reactivated size in Ebbinghaus illusion</title>
+      <link>https://larlequin.github.io/publication/2015/2015-ebbinghaus/</link>
+      <pubDate>Wed, 21 Oct 2015 17:26:20 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2015/2015-ebbinghaus/</guid>
+      <description>&lt;p&gt;The relationship between perceptual and memory processing is at the core of cognition. Growing evidence suggests reciprocal influences between them so that memory features should lead to an actual perceptual bias. In the present study, we investigate the reciprocal influence of perceptual and memory processing by further adapting the Ebbinghaus illusion and tested it in a psychophysical design. In a 2AFC (two-alternative forced choice) paradigm, the perceptual bias in the Ebbinghaus illusion was induced by a physical size (Experiment 1) or a memory reactivated size of the inducers (Experiment 2, the size was reactivated thanks to a color-size association). One test disk was presented on the left of the screen and was surrounded by six inducers with a large or small (perceptual or reactivated) size. The test disk varied in size and participants were asked to indicate whether this test disk was smaller or larger than a reference disk presented on the right of the screen (the reference disk was invariant in size). Participants&amp;rsquo; responses were influenced by the size of the inducers for the perceptual and the reactivated size of the inducers. These results provide new evidence for the influence of memory on perception in a psychophysics paradigm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perceptual processing affects the reactivation of a sensory dimension during a categorization task</title>
+      <link>https://larlequin.github.io/publication/2015/2015-riou_percmem/</link>
+      <pubDate>Mon, 21 Sep 2015 17:41:35 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2015/2015-riou_percmem/</guid>
+      <description>&lt;p&gt;According to grounded theories of cognition, knowledge is grounded in its sensory-motor features. Therefore, perceptual and conceptual processing should be based on the same distributed system so that conceptual and perceptual processes should interact. The present study assesses whether gustatory stimulation (participants tasted a sweet or a nonsweet yoghurt) could influence performance on a categorization task that involves the reactivation of the same sensory dimension. The results indicate that participants were slower (Experiment 1) or faster (Experiment 2), respectively, at categorizing pictures as representing edible sweet stimuli when they either simultaneously or had previously tasted a sweet yoghurt as compared to a nonsweet yoghurt. These results confirm the significant overlap between perceptual and memory mechanisms and suggest the functional equivalence between perceptually present and perceptually absent (memory reactivated) dimensions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facilitating effect of multimodal letter encoding on reading and spelling in 5-year-old children</title>
+      <link>https://larlequin.github.io/publication/2015/2015-labat_reading/</link>
+      <pubDate>Thu, 21 May 2015 17:37:20 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2015/2015-labat_reading/</guid>
+      <description>&lt;p&gt;This study aims at identifying the effect of training in the acquisition of the alphabetic principle in 5-year-old children. We compared the effect of multisensory training of letters in visual, haptic, graphomotor, visuo-haptic, and visuo-graphomotor groups. For each training type, we contrasted trained versus untrained letters in reading and spelling tasks. First, visuo-haptic and visuo-graphomotor training improved letter-sound correspondence acquisition scores more than the other types of training, and this improvement persisted in the second post-test. A cross-modal transfer was revealed by the fact that scores increased after blindfold haptic and graphomotor experiences. Moreover, performance on untrained letters also improved, suggesting an indirect effect following the specific trained letters training. The results argue in favor of a facilitating effect of multisensory encoding on acquisition of the alphabetic principle. Practical implications for the prevention of future reading difficulties are discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACT-IN: an integrated view of memory mechanisms</title>
+      <link>https://larlequin.github.io/publication/2014/2014-actin/</link>
+      <pubDate>Sun, 26 Oct 2014 20:54:54 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2014/2014-actin/</guid>
+      <description>&lt;p&gt;The present article proposes a new memory model called Act-In (Activation-Integration). Act-In extends the multiple trace memory models by placing them within the situated cognition perspective. Act-In considers that the activation and integration mechanisms play a key role in memory processes. These mechanisms are involved in both the construction of memory traces and the emergence of knowledge. The model is based on four main assumptions: (1) Memory traces reflect all the components of past experiences and, in particular, their sensory properties, actions performed on the objects in the environment and the emotional states of individuals. Memory traces are therefore distributed across multiple neuronal systems which code the multiple components of the experiences. (2) Knowledge is emergent and is the product of the coupling of the present experience with past experiences. (3) The brain is a categorisation system which develops by accumulating experiences and which, by default, produces categorical knowledge. (4) The emergence of specific knowledge (memories or episodic knowledge) requires very simple mechanisms which occur during learning and/or during retrieval. These assumptions are defended and discussed in the light of the work reported in the literature.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting a tool gives wings: overestimation of tool-related benefits in a motor imagery task and a decision task</title>
+      <link>https://larlequin.github.io/publication/2014/2014-osiurak-tools/</link>
+      <pubDate>Fri, 27 Jun 2014 07:43:47 -0500</pubDate>
+      
+      <guid>https://larlequin.github.io/publication/2014/2014-osiurak-tools/</guid>
+      <description>&lt;p&gt;Two experiments examine whether people overestimate the benefits provided by tool use in motor tasks. Participants had to move different quantities of objects by hand (two at a time) or with a tool (four at a time). The tool was not within reach so participants had to get it before moving the objects. In Experiment 1, the task was performed in a real and an imagined situation. In Experiment 2, participants had to decide for each quantity, whether they preferred moving the objects by hand or with the tool. Our findings indicated that people perceive tool actions as less costly in terms of movement time than they actually are (Experiment 1) and decide to use a tool even when it objectively provides less time-based benefits than using the hands (Experiment 2). Taken together, the data suggest that people overestimate the benefits provided by tool use.&lt;/p&gt;
 </description>
     </item>
     
